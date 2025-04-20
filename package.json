@@ -2,7 +2,7 @@
   "homepage": "https://Co43R.github.io/papertrading_v2",
   "name": "trade-journal",
   "version": "1.0.0",
-  "private": true,
+  
   "scripts": {
     "dev": "vite",
     "build": "vite build",
